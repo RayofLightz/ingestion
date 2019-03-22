@@ -14,6 +14,7 @@ func appendFile(filename string, data string) error{
         if err != nil{
                 return err
         }
+        defer file.Close()
         return nil
 }
 
