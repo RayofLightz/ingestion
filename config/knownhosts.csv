@@ -1,0 +1,579 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<link rel="stylesheet" type="text/css" href="https://www.malwaredomainlist.com/forums/Themes/Aqua/css/index.css?fin20" />
+	<script type="text/javascript" src="https://www.malwaredomainlist.com/forums/Themes/default/scripts/script.js?fin20"></script>
+	<script type="text/javascript" src="https://www.malwaredomainlist.com/forums/Themes/Aqua/scripts/theme.js?fin20"></script>
+	<script type="text/javascript"><!-- // --><![CDATA[
+		var smf_theme_url = "https://www.malwaredomainlist.com/forums/Themes/Aqua";
+		var smf_default_theme_url = "https://www.malwaredomainlist.com/forums/Themes/default";
+		var smf_images_url = "https://www.malwaredomainlist.com/forums/Themes/Aqua/images";
+		var smf_scripturl = "https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;";
+		var smf_iso_case_folding = false;
+		var smf_charset = "ISO-8859-1";
+		var ajax_notification_text = "Loading...";
+		var ajax_notification_cancel_text = "Cancel";
+	// ]]></script>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<meta name="description" content="Downloadable Lists" />
+	<title>Downloadable Lists</title>
+	<link rel="canonical" href="https://www.malwaredomainlist.com/forums/index.php?topic=3270.0" />
+	<link rel="help" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=help" />
+	<link rel="search" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=search" />
+	<link rel="contents" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;" />
+	<link rel="alternate" type="application/rss+xml" title="Malware Domain List - RSS" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;type=rss;action=.xml" />
+	<link rel="prev" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.0;prev_next=prev" />
+	<link rel="next" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.0;prev_next=next" />
+	<link rel="index" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;board=25.0" />
+</head>
+<body><!--[if lt IE 8]> <div style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative;'> <a href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"><img src="http://storage.ie6countdown.com/assets/100/images/banners/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a></div> <![endif]-->
+		<div id="header">
+<div id="wrapper" style="width: 90%">
+			<h1 class="forumtitle">
+				<a href="http://www.malwaredomainlist.com/mdl.php"><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/theme/logo.png" alt="Malware Domain List" /></a>
+			</h1>
+			<div class="user">
+				<script type="text/javascript" src="https://www.malwaredomainlist.com/forums/Themes/default/scripts/sha1.js"></script>
+				<form id="guest_form" action="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=login2" method="post" accept-charset="ISO-8859-1"  onsubmit="hashLoginPassword(this, '4134d64eba1adf264587612e10485e4f');">
+					<div class="info">Welcome, <strong>Guest</strong>. Please <a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=login">login</a> or <a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=register">register</a>.</div>
+					<input type="text" name="user" size="10" class="input_text" />
+					<input type="password" name="passwrd" size="10" class="input_password" />
+					<select name="cookielength">
+						<option value="60">1 Hour</option>
+						<option value="1440">1 Day</option>
+						<option value="10080">1 Week</option>
+						<option value="43200">1 Month</option>
+						<option value="-1" selected="selected">Forever</option>
+					</select>
+					<input type="submit" value="Login" class="button_submit" /><br />
+					<div class="info">Login with username, password and session length</div>
+					<input type="hidden" name="hash_passwrd" value="" />
+				</form>
+			</div>
+		<br class="clear" />
+		
+		</div>
+		<br class="clear" />
+		</div>
+		<div id="wrappercontent" style="width: 90%">
+		<div id="content_box">
+		<div id="menutop">
+			<ul class="topnav">
+				<li id="button_home">
+					<a class="active" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;">
+						<span class="last">Home</span>
+					</a>
+				</li>
+				<li id="button_help">
+					<a class="" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=help">
+						<span class="">Help</span>
+					</a>
+				</li>
+				<li id="button_search">
+					<a class="" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=search">
+						<span class="">Search</span>
+					</a>
+				</li>
+				<li id="button_login">
+					<a class="" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=login">
+						<span class="">Login</span>
+					</a>
+				</li>
+				<li id="button_register">
+					<a class="" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=register">
+						<span class="last">Register</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+		<br class="clear" />
+	<div id="content_section">
+		<div id="main_content_section">
+	<div class="navigate_section">
+		<ul>
+			<li>
+				<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;"><span>Malware Domain List</span></a> &#187;
+			</li>
+			<li>
+				<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;#c1"><span>Site Related</span></a> &#187;
+			</li>
+			<li>
+				<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;board=25.0"><span>Readme First / FAQ</span></a> &#187;
+			</li>
+			<li class="last">
+				<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.0"><span>Downloadable Lists</span></a>
+			</li>
+		</ul>
+	</div>
+			<a id="top"></a>
+			<a id="msg11613"></a>
+			<div class="pagesection">
+				<div class="nextlinks"><a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.0;prev_next=prev#new">&laquo; previous</a> <a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.0;prev_next=next#new">next &raquo;</a></div>
+		<div class="buttonlist floatright">
+			<ul>
+				<li><a class="button_strip_print" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=printpage;topic=3270.0" rel="new_win nofollow"><span class="last">Print</span></a></li>
+			</ul>
+		</div>
+				<div class="pagelinks floatleft">Pages: [<strong>1</strong>]   &nbsp;&nbsp;<a href="#lastPost"><strong>Go Down</strong></a></div>
+			</div>
+			<div id="forumposts">
+				<div class="cat_bar">
+					<h3 class="catbg">
+						<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/topic/normal_post_locked_sticky.gif" align="bottom" alt="" />
+						<span id="author">Author</span>
+						Topic: Downloadable Lists &nbsp;(Read 486811 times)
+					</h3>
+				</div>
+				<p id="whoisviewing" class="smalltext">0 Members and 2 Guests are viewing this topic.
+				</p>
+				<form action="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=quickmod2;topic=3270.0" method="post" accept-charset="ISO-8859-1" name="quickModForm" id="quickModForm" style="margin: 0;" onsubmit="return oQuickModify.bInEditMode ? oQuickModify.modifySave('4134d64eba1adf264587612e10485e4f', 'd76811f') : false">
+				<div class="windowbg">
+					<div class="post_wrapper">
+						<div class="date_post"><div>August 29, 2009, 10:24:52 pm</div><span>Read 486811 times</span></div>
+						<div class="poster">
+							<h4>
+								<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=profile;u=257" title="View the profile of SysAdMini">SysAdMini</a>
+							</h4>
+							<ul class="reset smalltext" id="msg_11613_extra_info">
+								<li class="membergroup">Administrator<hr class="kmdivisor" /></li>
+								<li class="membergroup">Hero Member<hr class="kmdivisor" /></li>
+								<li class="avatar">
+									<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=profile;u=257">
+										<img class="avatar" src="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=dlattach;attach=1107;type=avatar" alt="" />
+									</a>
+								<hr class="kmdivisor" /></li>
+							<li class="status"><span class="offline" style="text-transform: uppercase; font-size: 8px; text-shadow: 0 1px 0 #fff; color: #AEAEAF;"> Offline</span></li>
+							<li class="stars"><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /></li>
+			<li class="postcount"><hr class="kmdivisor" />
+				<div class="cr_post">
+							<img style="margin: 3px 0 0 1px" src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/id/postscount.png" alt="" /><span style="text-align:right; margin: 12px 6px 0 0; float: right;">3335</span><br />
+				</div>
+			</li>
+								<li class="profile">
+									<ul>
+									</ul>
+								</li>
+							</ul>
+						</div>
+						<div class="postarea">
+							<div class="flow_hidden">
+								<div class="keyinfo">
+									<div class="messageicon">
+										<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/post/xx.gif" alt="" />
+									</div>
+									<h5 id="subject_11613" style="margin-top: 7px;">
+										<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.msg11613#msg11613" rel="nofollow">Downloadable Lists</a>
+									</h5>
+									<div id="msg_11613_quick_mod"></div>
+								</div>
+							</div>
+							<div class="post">
+								<div class="inner" id="msg_11613">These are the list which we currently provide. If you have special requirements, then please let me know.<br /><br /><a href="http://www.malwaredomainlist.com/mdlcsv.php" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/mdlcsv.php</a><br />complete database in csv format<br /><br /><a href="http://www.malwaredomainlist.com/updatescsv.php" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/updatescsv.php</a> &nbsp;<br />updates in csv format<br /><br /><a href="http://www.malwaredomainlist.com/hostslist/mdl.xml" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/hostslist/mdl.xml</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br />RSS feed of url updates<br /><br /><a href="http://www.malwaredomainlist.com/hostslist/zeus.xml" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/hostslist/zeus.xml</a> <br />RSS feed of zbot/zeus url updates<br /><br /><a href="http://www.malwaredomainlist.com/zeuscsv.php" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/zeuscsv.php</a><br />ZeuS urls in csv format<br /><br /><a href="http://www.malwaredomainlist.com/hostslist/hosts.txt" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/hostslist/hosts.txt</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br />hosts.txt an be used as a block list<br /><br /><a href="http://www.malwaredomainlist.com/hostslist/delisted.txt" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/hostslist/delisted.txt</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br />sites which are offline or have been cleaned<br /><br /><a href="http://www.malwaredomainlist.com/hostslist/yesterday.php" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/hostslist/yesterday.php</a><br />all new database entries from yesterday (all db fields)<br /><br /><a href="http://www.malwaredomainlist.com/hostslist/yesterday_urls.php" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/hostslist/yesterday_urls.php</a><br />all new urls from yesterday &nbsp;(url only)<br /><br /><a href="http://www.malwaredomainlist.com/hostslist/ip.txt" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/hostslist/ip.txt</a><br />list of active ip addresses</div>
+							</div>
+						</div>
+						<div class="moderatorbar">
+							<div class="smalltext modified" id="modified_11613">
+							</div>
+							<div class="smalltext reportlinks">
+								<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/ip.gif" alt="" />
+								Logged
+							</div>
+							<div class="signature" id="msg_11613_signature">Ruining the bad guy&#039;s day</div>
+						</div>
+					</div>
+					<span class="botslice"><span></span></span>
+				</div>
+				<hr class="post_separator" />
+				<a id="msg14039"></a>
+				<div class="windowbg2">
+					<div class="post_wrapper">
+						<div class="date_post"><div>January 28, 2010, 10:53:50 pm</div><span>Reply #1</span></div>
+						<div class="poster">
+							<h4>
+								<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=profile;u=257" title="View the profile of SysAdMini">SysAdMini</a>
+							</h4>
+							<ul class="reset smalltext" id="msg_14039_extra_info">
+								<li class="membergroup">Administrator<hr class="kmdivisor" /></li>
+								<li class="membergroup">Hero Member<hr class="kmdivisor" /></li>
+								<li class="avatar">
+									<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=profile;u=257">
+										<img class="avatar" src="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=dlattach;attach=1107;type=avatar" alt="" />
+									</a>
+								<hr class="kmdivisor" /></li>
+							<li class="status"><span class="offline" style="text-transform: uppercase; font-size: 8px; text-shadow: 0 1px 0 #fff; color: #AEAEAF;"> Offline</span></li>
+							<li class="stars"><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /></li>
+			<li class="postcount"><hr class="kmdivisor" />
+				<div class="cr_post">
+							<img style="margin: 3px 0 0 1px" src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/id/postscount.png" alt="" /><span style="text-align:right; margin: 12px 6px 0 0; float: right;">3335</span><br />
+				</div>
+			</li>
+								<li class="profile">
+									<ul>
+									</ul>
+								</li>
+							</ul>
+						</div>
+						<div class="postarea">
+							<div class="flow_hidden">
+								<div class="keyinfo">
+									<div class="messageicon">
+										<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/post/xx.gif" alt="" />
+									</div>
+									<h5 id="subject_14039" style="margin-top: 7px;">
+										<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.msg14039#msg14039" rel="nofollow">Re: Downloadable Lists</a>
+									</h5>
+									<div id="msg_14039_quick_mod"></div>
+								</div>
+							</div>
+							<div class="post">
+								<div class="inner" id="msg_14039">New list added today:<br /><br /><a href="http://www.malwaredomainlist.com/hostslist/ip.txt" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/hostslist/ip.txt</a><br />list of active ip addresses</div>
+							</div>
+						</div>
+						<div class="moderatorbar">
+							<div class="smalltext modified" id="modified_14039">
+							</div>
+							<div class="smalltext reportlinks">
+								<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/ip.gif" alt="" />
+								Logged
+							</div>
+							<div class="signature" id="msg_14039_signature">Ruining the bad guy&#039;s day</div>
+						</div>
+					</div>
+					<span class="botslice"><span></span></span>
+				</div>
+				<hr class="post_separator" />
+				<a id="msg14322"></a>
+				<div class="windowbg">
+					<div class="post_wrapper">
+						<div class="date_post"><div>February 12, 2010, 06:56:49 pm</div><span>Reply #2</span></div>
+						<div class="poster">
+							<h4>
+								<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=profile;u=257" title="View the profile of SysAdMini">SysAdMini</a>
+							</h4>
+							<ul class="reset smalltext" id="msg_14322_extra_info">
+								<li class="membergroup">Administrator<hr class="kmdivisor" /></li>
+								<li class="membergroup">Hero Member<hr class="kmdivisor" /></li>
+								<li class="avatar">
+									<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=profile;u=257">
+										<img class="avatar" src="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=dlattach;attach=1107;type=avatar" alt="" />
+									</a>
+								<hr class="kmdivisor" /></li>
+							<li class="status"><span class="offline" style="text-transform: uppercase; font-size: 8px; text-shadow: 0 1px 0 #fff; color: #AEAEAF;"> Offline</span></li>
+							<li class="stars"><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /></li>
+			<li class="postcount"><hr class="kmdivisor" />
+				<div class="cr_post">
+							<img style="margin: 3px 0 0 1px" src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/id/postscount.png" alt="" /><span style="text-align:right; margin: 12px 6px 0 0; float: right;">3335</span><br />
+				</div>
+			</li>
+								<li class="profile">
+									<ul>
+									</ul>
+								</li>
+							</ul>
+						</div>
+						<div class="postarea">
+							<div class="flow_hidden">
+								<div class="keyinfo">
+									<div class="messageicon">
+										<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/post/xx.gif" alt="" />
+									</div>
+									<h5 id="subject_14322" style="margin-top: 7px;">
+										<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.msg14322#msg14322" rel="nofollow">Re: Downloadable Lists</a>
+									</h5>
+									<div id="msg_14322_quick_mod"></div>
+								</div>
+							</div>
+							<div class="post">
+								<div class="inner" id="msg_14322">Minor modification to mdlcsv.php. It has been added due to a request by one of our members.<br /><br />You can now export active urls only by querying<br /><br /><a href="http://www.malwaredomainlist.com/mdlcsv.php?inactive=off" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/mdlcsv.php?inactive=off</a> <br /></div>
+							</div>
+						</div>
+						<div class="moderatorbar">
+							<div class="smalltext modified" id="modified_14322">
+							</div>
+							<div class="smalltext reportlinks">
+								<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/ip.gif" alt="" />
+								Logged
+							</div>
+							<div class="signature" id="msg_14322_signature">Ruining the bad guy&#039;s day</div>
+						</div>
+					</div>
+					<span class="botslice"><span></span></span>
+				</div>
+				<hr class="post_separator" />
+				<a id="msg19939"></a>
+				<div class="windowbg2">
+					<div class="post_wrapper">
+						<div class="date_post"><div>November 13, 2010, 04:48:54 pm</div><span>Reply #3</span></div>
+						<div class="poster">
+							<h4>
+								<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=profile;u=257" title="View the profile of SysAdMini">SysAdMini</a>
+							</h4>
+							<ul class="reset smalltext" id="msg_19939_extra_info">
+								<li class="membergroup">Administrator<hr class="kmdivisor" /></li>
+								<li class="membergroup">Hero Member<hr class="kmdivisor" /></li>
+								<li class="avatar">
+									<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=profile;u=257">
+										<img class="avatar" src="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=dlattach;attach=1107;type=avatar" alt="" />
+									</a>
+								<hr class="kmdivisor" /></li>
+							<li class="status"><span class="offline" style="text-transform: uppercase; font-size: 8px; text-shadow: 0 1px 0 #fff; color: #AEAEAF;"> Offline</span></li>
+							<li class="stars"><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /></li>
+			<li class="postcount"><hr class="kmdivisor" />
+				<div class="cr_post">
+							<img style="margin: 3px 0 0 1px" src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/id/postscount.png" alt="" /><span style="text-align:right; margin: 12px 6px 0 0; float: right;">3335</span><br />
+				</div>
+			</li>
+								<li class="profile">
+									<ul>
+									</ul>
+								</li>
+							</ul>
+						</div>
+						<div class="postarea">
+							<div class="flow_hidden">
+								<div class="keyinfo">
+									<div class="messageicon">
+										<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/post/xx.gif" alt="" />
+									</div>
+									<h5 id="subject_19939" style="margin-top: 7px;">
+										<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.msg19939#msg19939" rel="nofollow">Re: Downloadable Lists</a>
+									</h5>
+									<div id="msg_19939_quick_mod"></div>
+								</div>
+							</div>
+							<div class="post">
+								<div class="inner" id="msg_19939">SpyEye RSS feed added:<br /><br /><a href="http://www.malwaredomainlist.com/hostslist/spyeye.xml" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/hostslist/spyeye.xml</a></div>
+							</div>
+						</div>
+						<div class="moderatorbar">
+							<div class="smalltext modified" id="modified_19939">
+							</div>
+							<div class="smalltext reportlinks">
+								<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/ip.gif" alt="" />
+								Logged
+							</div>
+							<div class="signature" id="msg_19939_signature">Ruining the bad guy&#039;s day</div>
+						</div>
+					</div>
+					<span class="botslice"><span></span></span>
+				</div>
+				<hr class="post_separator" />
+				<a id="msg20268"></a>
+				<div class="windowbg">
+					<div class="post_wrapper">
+						<div class="date_post"><div>December 15, 2010, 07:49:05 pm</div><span>Reply #4</span></div>
+						<div class="poster">
+							<h4>
+								<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=profile;u=257" title="View the profile of SysAdMini">SysAdMini</a>
+							</h4>
+							<ul class="reset smalltext" id="msg_20268_extra_info">
+								<li class="membergroup">Administrator<hr class="kmdivisor" /></li>
+								<li class="membergroup">Hero Member<hr class="kmdivisor" /></li>
+								<li class="avatar">
+									<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=profile;u=257">
+										<img class="avatar" src="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=dlattach;attach=1107;type=avatar" alt="" />
+									</a>
+								<hr class="kmdivisor" /></li>
+							<li class="status"><span class="offline" style="text-transform: uppercase; font-size: 8px; text-shadow: 0 1px 0 #fff; color: #AEAEAF;"> Offline</span></li>
+							<li class="stars"><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /></li>
+			<li class="postcount"><hr class="kmdivisor" />
+				<div class="cr_post">
+							<img style="margin: 3px 0 0 1px" src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/id/postscount.png" alt="" /><span style="text-align:right; margin: 12px 6px 0 0; float: right;">3335</span><br />
+				</div>
+			</li>
+								<li class="profile">
+									<ul>
+									</ul>
+								</li>
+							</ul>
+						</div>
+						<div class="postarea">
+							<div class="flow_hidden">
+								<div class="keyinfo">
+									<div class="messageicon">
+										<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/post/xx.gif" alt="" />
+									</div>
+									<h5 id="subject_20268" style="margin-top: 7px;">
+										<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.msg20268#msg20268" rel="nofollow">Re: Downloadable Lists</a>
+									</h5>
+									<div id="msg_20268_quick_mod"></div>
+								</div>
+							</div>
+							<div class="post">
+								<div class="inner" id="msg_20268"><a href="http://www.malwaredomainlist.com/mdlcsv.php" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/mdlcsv.php</a> now also exports the country code.<br /><br />Exported file now contains these fields in this order: <br /><br />date,domain,ip,reverse,description,registrant,asn,inactive,country</div>
+							</div>
+						</div>
+						<div class="moderatorbar">
+							<div class="smalltext modified" id="modified_20268">
+							</div>
+							<div class="smalltext reportlinks">
+								<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/ip.gif" alt="" />
+								Logged
+							</div>
+							<div class="signature" id="msg_20268_signature">Ruining the bad guy&#039;s day</div>
+						</div>
+					</div>
+					<span class="botslice"><span></span></span>
+				</div>
+				<hr class="post_separator" />
+				<a id="msg23148"></a>
+				<div class="windowbg2">
+					<div class="post_wrapper">
+						<div class="date_post"><div>February 19, 2012, 06:07:17 pm</div><span>Reply #5</span></div>
+						<div class="poster">
+							<h4>
+								<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=profile;u=257" title="View the profile of SysAdMini">SysAdMini</a>
+							</h4>
+							<ul class="reset smalltext" id="msg_23148_extra_info">
+								<li class="membergroup">Administrator<hr class="kmdivisor" /></li>
+								<li class="membergroup">Hero Member<hr class="kmdivisor" /></li>
+								<li class="avatar">
+									<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=profile;u=257">
+										<img class="avatar" src="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=dlattach;attach=1107;type=avatar" alt="" />
+									</a>
+								<hr class="kmdivisor" /></li>
+							<li class="status"><span class="offline" style="text-transform: uppercase; font-size: 8px; text-shadow: 0 1px 0 #fff; color: #AEAEAF;"> Offline</span></li>
+							<li class="stars"><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /><img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/staradmin.gif" alt="*" /></li>
+			<li class="postcount"><hr class="kmdivisor" />
+				<div class="cr_post">
+							<img style="margin: 3px 0 0 1px" src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/id/postscount.png" alt="" /><span style="text-align:right; margin: 12px 6px 0 0; float: right;">3335</span><br />
+				</div>
+			</li>
+								<li class="profile">
+									<ul>
+									</ul>
+								</li>
+							</ul>
+						</div>
+						<div class="postarea">
+							<div class="flow_hidden">
+								<div class="keyinfo">
+									<div class="messageicon">
+										<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/post/xx.gif" alt="" />
+									</div>
+									<h5 id="subject_23148" style="margin-top: 7px;">
+										<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.msg23148#msg23148" rel="nofollow">Re: Downloadable Lists</a>
+									</h5>
+									<div id="msg_23148_quick_mod"></div>
+								</div>
+							</div>
+							<div class="post">
+								<div class="inner" id="msg_23148">We have made a minor modification to<br /><br /><a href="http://www.malwaredomainlist.com/updatecsv.php" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/updatecsv.php</a> and<br /><a href="http://www.malwaredomainlist.com/mdlcsv.php" class="bbc_link" target="_blank">http://www.malwaredomainlist.com/mdlcsv.php</a><br /><br />A user notified us that our csv files are not RFC complaint. This could cause parsing problems.<br />According to RFC4180 (section 2.7)&nbsp; adouble quote within values must be escaped by preceding<br />it with another double quote. This has now been implemented. <br /><br /><a href="http://tools.ietf.org/html/rfc4180" class="bbc_link" target="_blank">http://tools.ietf.org/html/rfc4180</a><br /><div class="quoteheader"><div class="topslice_quote">Quote</div></div><blockquote class="bbc_standard_quote">If double-quotes are used to enclose fields, then a double-quote<br />&nbsp; &nbsp; &nbsp; &nbsp;appearing inside a field must be escaped by preceding it with<br />&nbsp; &nbsp; &nbsp; &nbsp;another double quote</blockquote><div class="quotefooter"><div class="botslice_quote"></div></div></div>
+							</div>
+						</div>
+						<div class="moderatorbar">
+							<div class="smalltext modified" id="modified_23148">
+							</div>
+							<div class="smalltext reportlinks">
+								<img src="https://www.malwaredomainlist.com/forums/Themes/Aqua/images/ip.gif" alt="" />
+								Logged
+							</div>
+							<div class="signature" id="msg_23148_signature">Ruining the bad guy&#039;s day</div>
+						</div>
+					</div>
+					<span class="botslice"><span></span></span>
+				</div>
+				<hr class="post_separator" />
+				</form>
+			</div>
+			<a id="lastPost"></a>
+			<div class="pagesection">
+				
+		<div class="buttonlist floatright">
+			<ul>
+				<li><a class="button_strip_print" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=printpage;topic=3270.0" rel="new_win nofollow"><span class="last">Print</span></a></li>
+			</ul>
+		</div>
+				<div class="pagelinks floatleft">Pages: [<strong>1</strong>]   &nbsp;&nbsp;<a href="#top"><strong>Go Up</strong></a></div>
+				<div class="nextlinks_bottom"><a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.0;prev_next=prev#new">&laquo; previous</a> <a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.0;prev_next=next#new">next &raquo;</a></div>
+			</div>
+	<div class="navigate_section">
+		<ul>
+			<li>
+				<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;"><span>Malware Domain List</span></a> &#187;
+			</li>
+			<li>
+				<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;#c1"><span>Site Related</span></a> &#187;
+			</li>
+			<li>
+				<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;board=25.0"><span>Readme First / FAQ</span></a> &#187;
+			</li>
+			<li class="last">
+				<a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;topic=3270.0"><span>Downloadable Lists</span></a>
+			</li>
+		</ul>
+	</div>
+			<div id="moderationbuttons"></div>
+			<div class="plainbox" id="display_jump_to">&nbsp;</div>
+		<br class="clear" />
+				<script type="text/javascript" src="https://www.malwaredomainlist.com/forums/Themes/default/scripts/topic.js"></script>
+				<script type="text/javascript"><!-- // --><![CDATA[
+					if ('XMLHttpRequest' in window)
+					{
+						var oQuickModify = new QuickModify({
+							sScriptUrl: smf_scripturl,
+							bShowModify: false,
+							iTopicId: 3270,
+							sTemplateBodyEdit: '\n\t\t\t\t\t\t\t\t<div id="quick_edit_body_container" style="width: 90%">\n\t\t\t\t\t\t\t\t\t<div id="error_box" style="padding: 4px;" class="error"><' + '/div>\n\t\t\t\t\t\t\t\t\t<textarea class="editor" name="message" rows="12" style="width: 100%; margin-bottom: 10px;" tabindex="1">%body%<' + '/textarea><br />\n\t\t\t\t\t\t\t\t\t<input type="hidden" name="d76811f" value="4134d64eba1adf264587612e10485e4f" />\n\t\t\t\t\t\t\t\t\t<input type="hidden" name="topic" value="3270" />\n\t\t\t\t\t\t\t\t\t<input type="hidden" name="msg" value="%msg_id%" />\n\t\t\t\t\t\t\t\t\t<div class="righttext">\n\t\t\t\t\t\t\t\t\t\t<input type="submit" name="post" value="Save" tabindex="2" onclick="return oQuickModify.modifySave(\'4134d64eba1adf264587612e10485e4f\', \'d76811f\');" accesskey="s" class="button_submit" />&nbsp;&nbsp;<input type="submit" name="cancel" value="Cancel" tabindex="3" onclick="return oQuickModify.modifyCancel();" class="button_submit" />\n\t\t\t\t\t\t\t\t\t<' + '/div>\n\t\t\t\t\t\t\t\t<' + '/div>',
+							sTemplateSubjectEdit: '<input type="text" style="width: 90%;" name="subject" value="%subject%" size="80" maxlength="80" tabindex="4" class="input_text" />',
+							sTemplateBodyNormal: '%body%',
+							sTemplateSubjectNormal: '<a hr'+'ef="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;'+'?topic=3270.msg%msg_id%#msg%msg_id%" rel="nofollow">%subject%<' + '/a>',
+							sTemplateTopSubject: 'Topic: %subject% &nbsp;(Read 486811 times)',
+							sErrorBorderStyle: '1px solid red'
+						});
+
+						aJumpTo[aJumpTo.length] = new JumpTo({
+							sContainerId: "display_jump_to",
+							sJumpToTemplate: "<label class=\"smalltext\" for=\"%select_id%\">Jump to:<" + "/label> %dropdown_list%",
+							iCurBoardId: 25,
+							iCurBoardChildLevel: 0,
+							sCurBoardName: "Readme First / FAQ",
+							sBoardChildLevelIndicator: "==",
+							sBoardPrefix: "=> ",
+							sCatSeparator: "-----------------------------",
+							sCatPrefix: "",
+							sGoButtonLabel: "go"
+						});
+
+						aIconLists[aIconLists.length] = new IconList({
+							sBackReference: "aIconLists[" + aIconLists.length + "]",
+							sIconIdPrefix: "msg_icon_",
+							sScriptUrl: smf_scripturl,
+							bShowModify: false,
+							iBoardId: 25,
+							iTopicId: 3270,
+							sSessionId: "4134d64eba1adf264587612e10485e4f",
+							sSessionVar: "d76811f",
+							sLabelIconList: "Message Icon",
+							sBoxBackground: "transparent",
+							sBoxBackgroundHover: "#ffffff",
+							iBoxBorderWidthHover: 1,
+							sBoxBorderColorHover: "#adadad" ,
+							sContainerBackground: "#ffffff",
+							sContainerBorder: "1px solid #adadad",
+							sItemBorder: "1px solid #ffffff",
+							sItemBorderHover: "1px dotted gray",
+							sItemBackground: "transparent",
+							sItemBackgroundHover: "#e0e0f0"
+						});
+					}
+				// ]]></script>
+	</div>
+	<div id="footer_section"><div class="frame">
+		<ul class="reset">
+			<li class="copyright">
+			<span class="smalltext" style="display: inline; visibility: visible; font-family: Verdana, Arial, sans-serif;"><a href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=credits" title="Simple Machines Forum" target="_blank" class="new_win">SMF 2.0.15</a> |
+ <a href="http://www.simplemachines.org/about/smf/license.php" title="License" target="_blank" class="new_win">SMF &copy; 2017</a>, <a href="http://www.simplemachines.org" title="Simple Machines" target="_blank" class="new_win">Simple Machines</a>
+			</span></li>
+			<li class="copyright">Aqua Style by <a href="http://smfhispano.org">Diego Andr&eacute;s</a></li>
+			<li><a id="button_xhtml" href="http://validator.w3.org/check?uri=referer" target="_blank" class="new_win" title="Valid XHTML 1.0!"><span>XHTML</span></a></li>
+			<li><a id="button_rss" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;action=.xml;type=rss" class="new_win"><span>RSS</span></a></li>
+			<li class="last"><a id="button_wap2" href="https://www.malwaredomainlist.com/forums/index.php?PHPSESSID=24d8001845610c168f4a9b4c8199dc3b&amp;wap2" class="new_win"><span>WAP2</span></a></li>
+		</ul>
+		<p>Page created in 0.12 seconds with 23 queries.</p>
+	</div></div>
+	</div>
+	</div>
+	
+	</div>
+</body></html>

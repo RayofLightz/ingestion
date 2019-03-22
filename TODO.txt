@@ -1,0 +1,2 @@
+1) add malware domain list support
+2) output as json entries
