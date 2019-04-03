@@ -9,6 +9,7 @@ import (
 	"net"
 	"reflect"
 	"sync"
+    "strconv"
 )
 
 func listner(pipe chan string, conf map[string]bool) error {
@@ -46,22 +47,32 @@ func worker(wg *sync.WaitGroup, id int, pipe chan string, procp chan []map[strin
 	processData(pipe, procp)
 }
 
+
+
 func processData(pipe chan string, procp chan []map[string]string) {
+    var lockedret struct{
+            mux sync.Mutex
+            valueArray []map[string]string
+    }
 	for {
 		pdata := <-pipe
 		data, err := extract.ExtractJsonRecord(pdata)
-		valueArray := recurs(data)
+        defer lockedret.mux.Lock()
+        lockedret.valueArray = recurs(data)
+        defer lockedret.mux.Unlock()
 		if err != nil {
 			fmt.Println("error in extraction")
 			fmt.Println(err)
 		} else {
-			procp <- valueArray
+            defer lockedret.mux.Lock()
+			procp <- lockedret.valueArray
+            defer lockedret.mux.Unlock()
 		}
 	}
 }
 
 func recurs(pipe_var map[string]interface{}) []map[string]string {
-	tmp_mp := make([]map[string]string, 0, 20)
+    tmp_mp := make([]map[string]string,0,20)
 	return_mp := make(map[string]string)
 	for index, _ := range pipe_var {
 		typ := reflect.TypeOf(pipe_var[index])
@@ -87,7 +98,11 @@ func recurs(pipe_var map[string]interface{}) []map[string]string {
 			tmpjson = pipe_var[index].(json.Number)
 			add_val := tmpjson.String()
 			return_mp[index] = add_val
-		} else if typ.String() == "map[string]interface {}" {
+		}else if typ.String() == "bool"{
+            var tmpstr string
+            tmpstr = strconv.FormatBool(pipe_var[index].(bool))
+            return_mp[index] = tmpstr
+        } else if typ.String() == "map[string]interface {}" {
 			mp := pipe_var[index].(map[string]interface{})
 			tmp := recurs(mp)
 			for indexb, _ := range tmp {
